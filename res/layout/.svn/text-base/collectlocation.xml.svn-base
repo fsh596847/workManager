@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<RelativeLayout android:layout_width="180dp"
+		android:layout_height="180dp" android:layout_centerInParent="true"
+		android:background="@drawable/btn_style_one_focused">
+
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="fill_parent" android:gravity="center"
+			android:orientation="vertical">
+
+			<ProgressBar android:id="@+id/progressBar1"
+				style="?android:attr/progressBarStyleLarge" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_gravity="center_horizontal" />
+
+			<TextView android:layout_width="fill_parent" android:id="@+id/collect_view"
+				android:layout_weight="1" android:layout_height="wrap_content"
+				android:text="正在获取位置信息" android:layout_marginTop="10dp"
+				android:textColor="#fff" android:textSize="15sp" />
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:gravity="center"
+				android:orientation="horizontal">
+				<Button android:id="@+id/collect_btncancle" android:gravity="center"
+					android:visibility="gone" android:layout_weight="1"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:layout_centerVertical="true" android:text="取消"
+					android:textSize="15sp" android:textColor="#fff" android:onClick="cancle"
+					android:background="@drawable/title_btn_right" />
+				<Button android:id="@+id/collect_btn" android:gravity="center"
+					android:visibility="gone" android:layout_width="wrap_content"
+					android:layout_weight="1" android:layout_height="wrap_content"
+					android:layout_centerVertical="true" android:text="采集"
+					android:textSize="15sp" android:textColor="#fff" android:onClick="collect"
+					android:background="@drawable/title_btn_right" />
+			</LinearLayout>
+		</LinearLayout>
+
+	</RelativeLayout>
+
+</RelativeLayout>

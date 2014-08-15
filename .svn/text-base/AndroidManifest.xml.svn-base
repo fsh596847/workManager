@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.orwlw.activity"
+    android:versionCode="12"
+    android:versionName="2.1.4[正式版]" >
+
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application
+        android:name="com.orwlw.comm.MyApplication"
+        android:icon="@drawable/appico"
+        android:label="@string/app_name"
+        android:persistent="true"
+        android:sharedUserId="android.uid.system" >
+        <activity
+            android:name="com.orwlw.activity.Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.LoadingActivity"
+            android:theme="@style/MyDialogStyle" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.MainActivity"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.FunctionViewActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity android:name="com.orwlw.activity.CustomViewActivity" >
+        </activity>
+        <activity android:name="com.orwlw.activity.PhotoActivity" >
+        </activity>
+        <activity android:name="com.orwlw.activity.CenterViewActivity" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.ProductEditNumActivity"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity android:name="com.orwlw.activity.BrowseActivity" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.Custom_Add_Edit_Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="sensor" >
+        </activity>
+        <activity android:name="com.orwlw.activity.Print_OrderActivity" >
+        </activity>
+        <activity android:name="com.orwlw.activity.AboutSoftActivity" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.UpgradeActivity"
+            android:theme="@style/UpgradeDialogStyle" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.CameraTestActivity"
+            android:theme="@android:style/Theme.Dialog" />
+        <!-- android:launchMode="singleTask" -->
+        <activity android:name="com.orwlw.activity.SlidingActivity" >
+        </activity>
+        <activity android:name="com.orwlw.activity.DeviceListActivity" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.exchange_commsActivity"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.back_commsActivity"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.GalleryProductActivity"
+            android:launchMode="singleTask" >
+        </activity>
+        <activity android:name="com.orwlw.activity.Custom_Activity" >
+        </activity>
+        <activity android:name="com.orwlw.activity.Map_Activity" >
+        </activity>
+        <activity android:name="com.orwlw.activity.HistoryOrderActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.HistoryOrderActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.CollectLocationActivity"
+            android:theme="@style/MyDialogStyle" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.CollectLocationActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PhotoActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.PhotoActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ProductViewActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.ProductViewActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.orwlw.activity.MessageActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.MessageActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SyncActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.SyncActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.ErrorActivity"
+            android:theme="@style/MyDialogStyle" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.ErrorActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.orwlw.activity.SuveryActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.SuveryActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.orwlw.activity.ReportActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.ReportActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.OrderActivity"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.OrderActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.ShopStoreActivity"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.ShopStoreActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.orwlw.activity.Exchange_BackCommActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/MyDialogStyle" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.Exchange_BackCommActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 问卷 -->
+        <activity
+            android:name="com.orwlw.activity.WenJuanActivity"
+            android:label="市场调研" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.WenJuanActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.orwlw.activity.ItemQuestionActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.ItemQuestionActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.orwlw.activity.PhoneCamera_Activity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.PhoneCamera_Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.orwlw.activity.ShowPicActivity" >
+            <intent-filter>
+                <action android:name="com.orwlw.activity.ShowPicActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- 广播 -->
+        <receiver
+            android:name=".PushReceiver"
+            android:process=":remote" >
+            <intent-filter>
+                <action android:name="org.androidpn.client.SHOW_NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".BackgroundReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.location.PROVIDERS_CHANGED" />
+                <action android:name="com.android.core.WMSTOP" />
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <action android:name="android.intent.action.PACKAGE_RESTARTED" />
+
+                <data android:scheme="package" >
+                </data>
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".AlarmReceiver"
+            android:process=":remote" />
+
+        <!-- 服务 -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+        <service
+            android:name="org.androidpn.client.NotificationService"
+            android:enabled="true"
+            android:label="NotificationService" >
+            <intent-filter>
+                <action android:name="org.androidpn.client.NotificationService" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".Checkserver"
+            android:enabled="true" >
+        </service>
+        <service
+            android:name=".InitializeServer"
+            android:enabled="true" >
+        </service>
+        <service
+            android:name=".Bkservice"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.orwlw.com.bkservice" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+    </application>
+
+    <!-- 连接互联网权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 拨打电话 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <!-- 写SD卡权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" >
+    </uses-permission>
+
+    <!-- 设置APN时需要下面的ACCESS_NETWORK_STATE及以下权限 -->
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" >
+    </uses-permission>
+
+    <!-- 定位权限 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+
+    <!-- 震动权限 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+    <!-- 蓝牙权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <users_permission android:name="android.permission.DEVICE_POWER" >
+    </users_permission>
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" >
+    </uses-permission>
+
+    <!-- 使用定位功能所需权限,demo已集成百度定位SDK,不使用定位功能可去掉以下6项 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" >
+    </uses-permission>
+
+    <permission android:name="android.permission.BAIDU_LOCATION_SERVICE" >
+    </permission>
+
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCES_MOCK_LOCATION" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+
+</manifest>

@@ -1,0 +1,134 @@
+8
+
+dir
+1269
+http://192.168.3.155:3690/svn/android_app/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88
+http://192.168.3.155:3690/svn/android_app
+
+
+
+2013-12-30T03:20:31.373490Z
+1254
+FSH
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfeacb68-775f-ff45-98dc-d80693e12eed
+
+default.properties
+file
+
+
+
+
+2013-11-20T02:29:49.297372Z
+12eda0622d0d9a5195202bae2b5723aa
+2013-06-05T09:37:03.046000Z
+390
+HYJ
+
+.classpath
+file
+
+
+
+
+2013-11-20T02:29:49.301372Z
+8811e68cd03efb8228c327532c1e1a75
+2013-09-11T03:00:13.375028Z
+1069
+FSH
+
+proguard.cfg
+file
+
+
+
+
+2013-11-20T02:29:49.306373Z
+f306917e9753cfe2b2c17c553edfd2de
+2013-06-14T07:57:54.116742Z
+413
+HYJ
+
+project.properties
+file
+
+
+
+
+2013-11-20T02:29:49.311373Z
+65ffab6e107a6c117db8528723a302b9
+2013-09-07T03:18:08.210028Z
+1056
+HYJ
+
+assets
+dir
+
+.project
+file
+
+
+
+
+2013-11-20T02:29:49.315373Z
+26bae531ce94e676ecc509b92e83e8c5
+2013-03-23T06:05:46.196812Z
+218
+HYJ
+
+lint.xml
+file
+
+
+
+
+2013-11-20T02:29:49.319373Z
+1ce274a186a2afb9f76542702f6ecc4d
+2013-08-12T10:34:28.115986Z
+919
+HYJ
+
+AndroidManifest.xml
+file
+
+
+
+
+2013-12-18T01:03:29.572811Z
+5353c5e42bfc96c8421fed769a3829b6
+2013-12-18T01:01:12.075475Z
+1248
+FSH
+has-props
+
+src
+dir
+
+bin
+dir
+
+gen
+dir
+
+libs
+dir
+
+res
+dir
+
+.settings
+dir
+

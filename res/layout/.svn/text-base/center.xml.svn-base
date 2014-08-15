@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--功能界面的布局 -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<RelativeLayout android:id="@+id/MainActivityrlTwo"
+		android:background="@drawable/title_bar" android:layout_width="fill_parent"
+		android:layout_height="45dp">
+		<TextView android:layout_height="wrap_content"
+			android:textSize="20sp" android:textColor="#ffffff"
+			android:layout_centerInParent="true" android:id="@+id/textView1"
+			android:text="个人中心" android:layout_width="wrap_content"></TextView>
+	</RelativeLayout>
+
+	<GridView android:id="@+id/MainActivityGrid"
+		android:background="@drawable/bg" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:numColumns="3"
+		android:columnWidth="50dp" android:layout_below="@+id/MainActivityrlTwo"
+		android:layout_margin="5dp" />
+
+	<RelativeLayout android:id="@+id/MainActivityrlThree"
+		android:layout_width="fill_parent" android:layout_height="60dp"
+		android:layout_alignParentBottom="true">
+
+		<TextView android:id="@+id/tvLineBottom"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:text="" />
+
+		<Button android:id="@+id/btmore_MainActivity"
+			android:visibility="gone" android:layout_alignParentRight="true"
+			android:layout_alignParentBottom="true" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="More" />
+
+	</RelativeLayout>
+
+</RelativeLayout> 

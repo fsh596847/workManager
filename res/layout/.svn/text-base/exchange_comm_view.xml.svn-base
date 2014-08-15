@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:background="#eee">
+	<RelativeLayout android:id="@+id/MainActivityrlTwo"
+		android:background="@drawable/title_bar" android:layout_width="fill_parent"
+		android:layout_height="45dp">
+		<Button android:id="@+id/login_reback_btn"
+			android:layout_width="70dp" android:layout_height="wrap_content"
+			android:layout_centerVertical="true" android:text="返回"
+			android:textSize="14sp" android:textColor="#fff" android:onClick="login_back"
+			android:background="@drawable/title_btn_back" />
+		<TextView android:layout_height="wrap_content"
+			android:textSize="20sp" android:textColor="#ffffff"
+			android:layout_centerInParent="true" android:id="@+id/textView1"
+			android:text="调换货" android:layout_width="wrap_content"></TextView>
+		<Button android:id="@+id/okbtn" android:layout_width="67dp"
+			android:layout_height="wrap_content" android:layout_alignParentRight="true"
+			android:layout_centerVertical="true" android:layout_marginRight="5dp"
+			android:text="预览" android:textColor="#ffffff" android:background="@drawable/title_btn_right"
+			android:onClick="btn_submit" />
+	</RelativeLayout>
+	<LinearLayout android:orientation="horizontal"
+		android:layout_weight="1" android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+
+		<LinearLayout android:orientation="vertical"
+			android:layout_weight="1" android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+			<TextView android:text="原有商品" android:gravity="center"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"></TextView>
+
+			<GridView android:id="@+id/gridview1" android:listSelector="#FAF4FF"
+				android:numColumns="1" android:layout_width="fill_parent"
+				android:layout_height="fill_parent" />
+
+		</LinearLayout>
+		<TextView android:layout_width="0.5dp" android:background="@drawable/bottom1"
+			android:layout_height="fill_parent"></TextView>
+		<LinearLayout android:layout_weight="1"
+			android:orientation="vertical" android:layout_width="fill_parent"
+			android:layout_height="fill_parent">
+			<TextView android:text="新调商品" android:gravity="center"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"></TextView>
+			<GridView android:id="@+id/gridview2" android:listSelector="#FAF4FF"
+				android:numColumns="1" android:layout_width="fill_parent"
+				android:layout_height="fill_parent" />
+		</LinearLayout>
+
+	</LinearLayout>
+
+</LinearLayout>

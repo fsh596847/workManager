@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 登录中 保存密码，隐身登录等相应状态的变化
+	selector-实现界面随着动作的不同也改变 -->
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  
+  	<!-- android:state_window_focused-是否有焦点状态 
+  		 android:state_enabled-是否可用状态
+  		 android:state_checked-标示勾选状态
+  		 没有焦点，可以选择,已经勾选时的状态-->
+    <item android:state_window_focused="false" android:state_enabled="true"
+    	 android:state_checked="true" android:drawable="@drawable/btn_check_on" />
+   
+    <!-- 没有焦点，可用选择，没被勾选时状态 --> 	 
+    <item android:state_window_focused="false" android:state_enabled="true"
+    	 android:state_checked="false" android:drawable="@drawable/btn_check_off" />
+    	 
+    <!-- android:state_pressed-是否点击状态
+    	可以选择，已经勾选，点击时状态 -->	 
+    <item android:state_enabled="true" android:state_checked="true"
+    	 android:state_pressed="true" android:drawable="@drawable/btn_check_on_selected" />
+    
+    <!--  可以选择，不可勾选，点击时状态-->
+    <item android:state_enabled="true" android:state_checked="false" 
+    	android:state_pressed="true" android:drawable="@drawable/btn_check_off_selected" />
+    
+    <!-- 具有焦点，可以选择，已经勾选状态 -->
+    <item android:state_focused="true" android:state_enabled="true" 
+    	android:state_checked="true" android:drawable="@drawable/btn_check_on_selected" />
+    
+    <!-- 具有焦点，可以选择，没勾选状态 -->
+    <item android:state_focused="true" android:state_enabled="true" 
+    	android:state_checked="false" android:drawable="@drawable/btn_check_off_selected" />
+   
+   	<!-- 可以选择，没勾选状态 -->
+    <item android:state_enabled="true" android:state_checked="false" 
+    	android:drawable="@drawable/btn_check_off" />
+    
+    <!-- 可以选择，已经勾选状态 -->
+    <item android:state_enabled="true" android:state_checked="true" 
+    	android:drawable="@drawable/btn_check_on" />
+    	
+    <!-- 不可选择，已经勾选状态 -->
+    <item android:state_enabled="false" android:state_checked="true" 
+    	android:drawable="@drawable/btn_check_on_disabled" />
+    	
+    <!-- 不可选择，没有勾选状态 -->	
+    <item android:state_enabled="false" android:state_checked="false" 
+    	android:drawable="@drawable/btn_check_off_disabled" />
+</selector>

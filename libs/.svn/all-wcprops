@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/android_app/!svn/ver/1069/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs
+END
+ksoap2-android-assembly-2.5.4-jar-with-dependencies.jar
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs/ksoap2-android-assembly-2.5.4-jar-with-dependencies.jar
+END
+gson-2.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/android_app/!svn/ver/1069/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs/gson-2.2.4.jar
+END
+client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs/client.jar
+END
+zbar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs/zbar.jar
+END
+locSDK_3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs/locSDK_3.1.jar
+END
+android-support-v4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs/android-support-v4.jar
+END
+baidumapapi_v2_1_1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/libs/baidumapapi_v2_1_1.jar
+END

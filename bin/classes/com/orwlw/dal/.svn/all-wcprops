@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal
+END
+ProductDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/ProductDAL.java
+END
+ImageDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/ImageDAL.java
+END
+ExchangeBackDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/ExchangeBackDAL.java
+END
+EnumDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/EnumDAL.java
+END
+Order_Local_DAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/Order_Local_DAL.java
+END
+FunctionDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/FunctionDAL.java
+END
+LoationDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/LoationDAL.java
+END
+PhotoDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/PhotoDAL.java
+END
+PushDataDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/PushDataDAL.java
+END
+CustomDAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/dal/CustomDAL.java
+END

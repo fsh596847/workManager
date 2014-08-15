@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:background="#eee">
+	<RelativeLayout android:id="@+id/MainActivityrlTwo"
+		android:background="@drawable/title_bar" android:layout_width="fill_parent"
+		android:layout_height="45dp">
+		<Button android:id="@+id/login_reback_btn"
+			android:layout_width="70dp" android:layout_height="wrap_content"
+			android:layout_centerVertical="true" android:text="返回"
+			android:textSize="14sp" android:textColor="#fff" android:onClick="login_back"
+			android:background="@drawable/title_btn_back" />
+		<TextView android:layout_height="wrap_content"
+			android:textSize="20sp" android:textColor="#ffffff"
+			android:layout_centerInParent="true" android:id="@+id/textView1"
+			android:text="更新数据" android:layout_width="wrap_content"></TextView>
+	</RelativeLayout>
+	<ProgressBar style="?android:attr/progressBarStyleHorizontal"
+		android:id="@+id/sync_progressbar" android:layout_margin="9dp"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"></ProgressBar>
+
+	<Button android:id="@+id/login_login_btn" android:layout_width="fill_parent"
+		android:layout_height="40dp" android:layout_margin="5dp"
+		android:layout_alignParentRight="true" android:text="开始更新"
+		android:background="@drawable/btn_style_green" android:textColor="#ffffff"
+		android:textSize="18sp" android:onClick="syncbtn_start" />
+</LinearLayout>

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/android_app/!svn/ver/1253/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1217/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/MainActivity.java
+END
+ItemQuestionActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/android_app/!svn/ver/1239/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/ItemQuestionActivity.java
+END
+Custom_Add_Edit_Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Custom_Add_Edit_Activity.java
+END
+Checkserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Checkserver.java
+END
+Print_OrderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Print_OrderActivity.java
+END
+PushReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/PushReceiver.java
+END
+CameraTestActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/CameraTestActivity.java
+END
+ErrorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/ErrorActivity.java
+END
+DeviceListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/DeviceListActivity.java
+END
+HistoryOrderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/HistoryOrderActivity.java
+END
+SuveryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/SuveryActivity.java
+END
+back_commsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/back_commsActivity.java
+END
+Bkservice.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Bkservice.java
+END
+BrowseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/BrowseActivity.java
+END
+AlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/AlarmReceiver.java
+END
+AboutSoftActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/android_app/!svn/ver/1202/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/AboutSoftActivity.java
+END
+WenJuanActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/android_app/!svn/ver/1245/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/WenJuanActivity.java
+END
+BaseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/BaseActivity.java
+END
+InitializeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/InitializeServer.java
+END
+ProductViewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/android_app/!svn/ver/1087/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/ProductViewActivity.java
+END
+ReportActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/ReportActivity.java
+END
+Map_Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Map_Activity.java
+END
+CameraPreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/CameraPreview.java
+END
+FunctionViewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/android_app/!svn/ver/1089/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/FunctionViewActivity.java
+END
+exchange_commsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/exchange_commsActivity.java
+END
+PhoneCamera_Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/android_app/!svn/ver/1253/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/PhoneCamera_Activity.java
+END
+CrashHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/CrashHandler.java
+END
+MessageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/MessageActivity.java
+END
+ShopStoreActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/ShopStoreActivity.java
+END
+BackgroundReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/BackgroundReceiver.java
+END
+UpgradeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/UpgradeActivity.java
+END
+PhotoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/PhotoActivity.java
+END
+SlidingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/SlidingActivity.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Login.java
+END
+GalleryProductActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/GalleryProductActivity.java
+END
+LeftFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/LeftFragment.java
+END
+Notifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Notifier.java
+END
+CustomViewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/CustomViewActivity.java
+END
+ProductEditNumActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/ProductEditNumActivity.java
+END
+Custom_Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Custom_Activity.java
+END
+OrderActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/OrderActivity.java
+END
+CenterViewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/CenterViewActivity.java
+END
+SyncActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/SyncActivity.java
+END
+ShowPicActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/android_app/!svn/ver/1252/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/ShowPicActivity.java
+END
+LoadingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/LoadingActivity.java
+END
+Exchange_BackCommActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/Exchange_BackCommActivity.java
+END
+CollectLocationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/activity/CollectLocationActivity.java
+END

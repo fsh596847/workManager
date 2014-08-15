@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<LinearLayout android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:orientation="vertical"
+		android:layout_marginTop="3dp">
+		<RelativeLayout android:layout_width="fill_parent"
+			android:clickable="true" android:id="@+id/productname_Layout"
+			android:layout_height="wrap_content" android:gravity="center_vertical"
+			android:background="@drawable/preference_first_item">
+
+			<TextView android:layout_width="wrap_content" android:id="@+id/comm_name"
+				android:layout_height="wrap_content" android:layout_centerVertical="true"
+				android:layout_centerInParent="true" android:padding="8dp"
+				android:text="QQ星原味儿童奶200ml" android:textSize="14sp"
+				android:textColor="#666666" />
+		</RelativeLayout>
+		<RelativeLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:gravity="center_vertical"
+			android:background="@drawable/preference_item">
+			<TextView android:text="" android:id="@+id/comm_date"
+				android:gravity="center" android:layout_width="fill_parent"
+				android:layout_height="wrap_content"></TextView>
+		</RelativeLayout>
+
+		<RelativeLayout android:layout_width="fill_parent"
+			android:clickable="true" android:layout_height="wrap_content"
+			android:gravity="center_vertical" android:background="@drawable/preference_last_item">
+
+			<LinearLayout android:layout_centerInParent="true"
+				android:layout_height="wrap_content" android:id="@+id/linearLayout1"
+				android:layout_width="wrap_content">
+				<TextView android:text="5" android:id="@+id/num1"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_centerVertical="true"
+					android:padding="8dp" android:text="件" android:textSize="14sp"
+					android:textColor="#666666" />
+				<TextView android:text="3" android:id="@+id/num2"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_centerVertical="true"
+					android:padding="8dp" android:text="个" android:textSize="14sp"
+					android:textColor="#666666" />
+			</LinearLayout>
+
+		</RelativeLayout>
+
+	</LinearLayout>
+
+</LinearLayout>

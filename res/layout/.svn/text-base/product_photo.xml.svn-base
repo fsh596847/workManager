@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--九宫格每一格的布局 -->
+<RelativeLayout android:id="@+id/relativeLayout1"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<ImageView android:scaleType="fitXY"
+		android:layout_centerInParent="true" android:background="@color/white"
+		android:layout_width="fill_parent" android:id="@+id/imageView1"
+		android:layout_height="150dp"></ImageView>
+	<TextView android:text="[暂无图片]" android:id="@+id/textView1"
+		android:layout_centerInParent="true" android:visibility="gone"
+		android:textColor="@color/nomalGray" android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+
+	<LinearLayout android:orientation="vertical" android:background="@color/txt_gray"
+		android:layout_width="fill_parent" android:id="@+id/linearLayout1"
+		android:layout_height="wrap_content" android:layout_below="@+id/imageView1"
+		android:layout_alignLeft="@+id/imageView1" android:layout_alignRight="@+id/imageView1">
+		<TextView android:layout_height="20dp" android:gravity="center"
+			android:layout_width="fill_parent" android:textColor="@color/white"
+			 android:text="QQ星儿童牛奶 200ml"
+			android:id="@+id/text_comm" android:layout_above="@+id/textView2"></TextView>
+		<TextView android:layout_height="20dp" android:gravity="center"
+			 android:layout_width="fill_parent"
+			android:textColor="@color/white" android:text="更多图片&gt;&gt;"
+			android:id="@+id/textView2"></TextView>
+	</LinearLayout>
+
+
+</RelativeLayout>
+

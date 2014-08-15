@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <CheckBox
+        android:id="@+id/check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+    </CheckBox>
+
+    <TextView
+        android:id="@+id/check_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="其实我不会" />
+
+    <Button
+        android:id="@+id/check_photo_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:text="拍照/商品" />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--九宫格每一格的布局 -->
+<LinearLayout android:id="@+id/relativeLayout1"
+	android:layout_width="fill_parent" android:orientation="vertical"
+	android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@color/black">
+
+	<ImageView android:layout_weight="1" android:layout_width="fill_parent"
+		android:id="@+id/imageView1" android:layout_height="wrap_content"></ImageView>
+	<TextView android:layout_height="20dp" android:gravity="center"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_gravity="bottom" android:layout_width="fill_parent"
+		android:textColor="@color/white" android:text="" android:id="@+id/textView2"></TextView>
+
+
+</LinearLayout>
+

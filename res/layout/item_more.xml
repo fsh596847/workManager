@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<LinearLayout android:layout_width="match_parent"
+		android:id="@+id/more_Layout" android:layout_height="wrap_content"
+		android:orientation="vertical" android:layout_marginTop="3dp">
+
+		<RelativeLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:gravity="center_vertical"
+			android:background="@drawable/preference_item">
+			<TextView android:text="点击加载更多" android:id="@+id/comm_date"
+				android:gravity="center" android:layout_width="fill_parent"
+				android:layout_height="40dp"></TextView>
+		</RelativeLayout>
+
+
+
+	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+	<LinearLayout android:layout_weight="1" android:focusable="true"
+		android:focusableInTouchMode="true" android:layout_marginLeft="6dp"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<Button android:text="＋" android:id="@+id/btnyear_add"
+			android:layout_gravity="center" android:background="@drawable/btn_style_green"
+			android:layout_width="50dp" android:layout_height="wrap_content"></Button>
+
+		<EditText android:layout_width="fill_parent" android:id="@+id/txt_year"
+			android:layout_weight="1" android:layout_height="wrap_content"
+			android:background="@drawable/search_bar_edit_bg" android:inputType="number"
+			android:hint="2013">
+		</EditText>
+
+		<Button android:text="—" android:id="@+id/btnyear_Minus"
+			android:layout_gravity="center" android:background="@drawable/btn_style_green"
+			android:layout_width="50dp" android:layout_height="wrap_content"></Button>
+	</LinearLayout>
+	<LinearLayout android:layout_weight="1" android:focusable="true"
+		android:focusableInTouchMode="true" android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<Button android:text="＋" android:id="@+id/btnmonth_add"
+			android:layout_gravity="center" android:background="@drawable/btn_style_green"
+			android:layout_width="50dp" android:layout_height="wrap_content"></Button>
+
+		<EditText android:layout_width="50dp" android:id="@+id/txt_month"
+			android:layout_gravity="center" android:layout_weight="1"
+			android:layout_height="wrap_content" android:background="@drawable/search_bar_edit_bg"
+			android:inputType="number" android:hint="03">
+		</EditText>
+
+		<Button android:text="—" android:id="@+id/btnmonth_Minus"
+			android:layout_gravity="center" android:background="@drawable/btn_style_green"
+			android:layout_width="50dp" android:layout_height="wrap_content"></Button>
+	</LinearLayout>
+	<LinearLayout android:layout_weight="1"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<Button android:text="＋" android:id="@+id/btnday_add"
+			android:layout_gravity="center" android:background="@drawable/btn_style_green"
+			android:layout_width="50dp" android:layout_height="wrap_content"></Button>
+
+		<EditText android:layout_width="50dp" android:id="@+id/txt_day"
+			android:layout_gravity="center" android:layout_weight="1"
+			android:layout_height="wrap_content" android:background="@drawable/search_bar_edit_bg"
+			android:inputType="number" android:hint="18">
+		</EditText>
+
+		<Button android:text="—" android:id="@+id/btnday_Minus"
+			android:layout_gravity="center" android:background="@drawable/btn_style_green"
+			android:layout_width="50dp" android:layout_height="wrap_content"></Button>
+	</LinearLayout>
+</LinearLayout>

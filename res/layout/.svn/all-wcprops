@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/android_app/!svn/ver/1254/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout
+END
+about_softinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/android_app/!svn/ver/1197/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/about_softinfo.xml
+END
+phone_camera.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/android_app/!svn/ver/1247/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/phone_camera.xml
+END
+upgrade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/android_app/!svn/ver/1254/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/upgrade.xml
+END
+exchange_comm_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/exchange_comm_view.xml
+END
+picture_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/android_app/!svn/ver/1167/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/picture_item.xml
+END
+left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/left.xml
+END
+list_head.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_head.xml
+END
+myedittext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/myedittext.xml
+END
+list_order_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_order_view.xml
+END
+product_pic_all.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/product_pic_all.xml
+END
+my_control_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/my_control_time.xml
+END
+chatting_item_msg_text_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/chatting_item_msg_text_left.xml
+END
+sync_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/sync_data.xml
+END
+loading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/loading.xml
+END
+slidingmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/slidingmenu.xml
+END
+collectlocation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/collectlocation.xml
+END
+center.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/center.xml
+END
+product_pic_all_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/product_pic_all_item.xml
+END
+error_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/error_view.xml
+END
+list_custom_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/android_app/!svn/ver/1247/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_custom_item.xml
+END
+function.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/function.xml
+END
+number.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/android_app/!svn/ver/1206/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/number.xml
+END
+product_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/product_photo.xml
+END
+list_product_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_product_item.xml
+END
+wenzi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/android_app/!svn/ver/1077/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/wenzi.xml
+END
+product_edit_num_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/product_edit_num_view.xml
+END
+left_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/left_frame.xml
+END
+list_store_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_store_item.xml
+END
+back_comm_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/back_comm_view.xml
+END
+list_historyorder_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_historyorder_item.xml
+END
+question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/android_app/!svn/ver/1167/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/question.xml
+END
+exchange_back_comm_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/exchange_back_comm_view.xml
+END
+mycontrol_selecteitem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/mycontrol_selecteitem.xml
+END
+zbar_capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/zbar_capture.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/main.xml
+END
+custom_detial_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/custom_detial_view.xml
+END
+custom_detail_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/custom_detail_view.xml
+END
+photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/photo.xml
+END
+center_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/center_frame.xml
+END
+box_function.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/box_function.xml
+END
+device_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/device_name.xml
+END
+list_custom_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_custom_view.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/android_app/!svn/ver/1231/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/activity_main.xml
+END
+price_raid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/price_raid.xml
+END
+list_product_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_product_view.xml
+END
+showpic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/android_app/!svn/ver/1254/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/showpic.xml
+END
+item_more.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/item_more.xml
+END
+list_store_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_store_view.xml
+END
+list_historyorder_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_historyorder_view.xml
+END
+list_order_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/android_app/!svn/ver/1167/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_order_item.xml
+END
+print_voder_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/print_voder_view.xml
+END
+device_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/device_list.xml
+END
+browse_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/browse_view.xml
+END
+radio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/android_app/!svn/ver/1167/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/radio.xml
+END
+box_photo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/box_photo.xml
+END
+main_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/android_app/!svn/ver/1190/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/main_item.xml
+END
+custom_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/custom_view.xml
+END
+item_add.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/item_add.xml
+END
+map_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/map_view.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/android_app/!svn/ver/1080/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/login.xml
+END
+item_comm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/android_app/!svn/ver/1103/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/item_comm.xml
+END
+list_message_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/list_message_view.xml
+END
+tree_item_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/tree_item_layout.xml
+END
+picture_item1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/android_app/!svn/ver/1167/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/picture_item1.xml
+END
+check.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/android_app/!svn/ver/1168/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/layout/check.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/android_app/!svn/ver/1254/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/android_app/!svn/ver/1069/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/.project
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/lint.xml
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/android_app/!svn/ver/1248/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/AndroidManifest.xml
+END

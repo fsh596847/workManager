@@ -1,0 +1,41 @@
+8
+
+dir
+1269
+http://192.168.3.155:3690/svn/android_app/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/res/drawable-ldpi
+http://192.168.3.155:3690/svn/android_app
+
+
+
+2013-03-23T06:05:46.196812Z
+218
+HYJ
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfeacb68-775f-ff45-98dc-d80693e12eed
+
+ic_launcher.png
+file
+
+
+
+
+2013-11-20T02:29:47.785286Z
+264c735b1cd5f1c4e9b665e90eaf30ce
+2013-03-23T06:05:46.196812Z
+218
+HYJ
+has-props
+

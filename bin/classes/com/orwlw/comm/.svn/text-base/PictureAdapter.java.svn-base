@@ -1,0 +1,95 @@
+package com.orwlw.comm;
+
+import java.util.List;
+
+import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.orwlw.activity.R;
+import com.orwlw.model.DataBeanToo;
+import com.orwlw.model.QuestionsBean;
+import com.orwlw.view.IconTextView;
+
+public class PictureAdapter extends BaseAdapter {
+	private List<DataBeanToo> list;
+	private Context context;
+	private QuestionsBean questionsBean;
+
+	public PictureAdapter(List<DataBeanToo> list, Context context,
+			QuestionsBean questionsBean) {
+		this.list = list;
+		this.context = context;
+		this.questionsBean = questionsBean;
+	}
+
+	@Override
+	public int getCount() {
+		// TODO Auto-generated method stub
+		return list.size();
+	}
+
+	@Override
+	public Object getItem(int arg0) {
+		// TODO Auto-generated method stub
+		return list.get(arg0);
+	}
+
+	@Override
+	public long getItemId(int arg0) {
+		// TODO Auto-generated method stub
+		return arg0;
+	}
+
+	@Override
+	public View getView(int arg0, View convertView, ViewGroup arg2) {
+		IconTextView icon = null;
+		if (convertView == null) {
+			convertView = LayoutInflater.from(context).inflate(
+					R.layout.picture_item, null);
+			icon = (IconTextView) convertView
+					.findViewById(R.id.picture_IconTextView);
+			ViewHolder holder = new ViewHolder();
+			holder.icon = icon;
+			convertView.setTag(holder);
+		} else {
+			ViewHolder holder = (ViewHolder) convertView.getTag();
+			icon = holder.icon;
+
+		}
+		BitmapFactory.Options option = new BitmapFactory.Options();
+		Bitmap bm = BitmapFactory.decodeFile(list.get(arg0).getName(), option);
+		icon.setIcon(bm);
+		try {
+			String type = questionsBean.getF_ITEM_TYPE();
+
+			if (list.get(arg0).getInfo() != null && !type.equals("0")) {
+				String contet = list.get(arg0).getInfo();
+				String[] item = contet.split("-");
+				if (item[1] != null && !item[1].equals("")) {
+					icon.setText("选项：" + item[0] + "\n" + "商品：" + item[1]);
+				} else {
+					icon.setText("选项：" + item[0] + "\n" + "商品：" + null);
+				}
+				contet = null;
+			} else {
+				icon.setText(null);
+			}
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return convertView;
+	}
+
+	class ViewHolder {
+		public IconTextView icon;
+	}
+
+}

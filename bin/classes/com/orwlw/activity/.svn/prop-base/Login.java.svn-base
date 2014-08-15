@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 288
+/2013统一后台_业务员版/src/com/orwlw/activity/Login.java:1030-1050
+/branch/客户属性字段的增加分支/src/com/orwlw/activity/Login.java:991-1028
+/branch/拍照兼容解决/src/com/orwlw/activity/Login.java:1051-1057
+/workmanager_branch/src/com/orwlw/activity/Login.java:931
+END

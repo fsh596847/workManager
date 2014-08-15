@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<LinearLayout android:layout_width="match_parent"
+		android:layout_height="wrap_content" android:orientation="vertical"
+		android:layout_marginTop="3dp">
+		<RelativeLayout android:layout_width="fill_parent"
+			android:id="@+id/productname_Layout" android:layout_height="wrap_content"
+			android:gravity="center_vertical" android:clickable="true"
+			android:background="@drawable/preference_first_item">
+
+			<TextView android:layout_width="wrap_content" android:id="@+id/textview_orderdate"
+				android:layout_height="wrap_content" android:layout_centerVertical="true"
+				android:layout_centerInParent="true" android:padding="8dp"
+				android:text="2013.1.30日订单" android:textSize="14sp"
+				android:textColor="#666666" />
+		</RelativeLayout>
+		<RelativeLayout android:layout_width="fill_parent"
+			android:visibility="gone" android:id="@+id/orderditial_layout"
+			android:layout_height="wrap_content" android:gravity="center_vertical"
+			android:background="@drawable/preference_item">
+			<TextView android:text="订单内容" android:id="@+id/textView1"
+				android:textColor="@color/black2" android:layout_width="wrap_content"
+				android:layout_height="wrap_content"></TextView>
+		</RelativeLayout>
+
+		<RelativeLayout android:layout_width="fill_parent"
+			android:id="@+id/go_orderditial_layout" android:layout_height="wrap_content"
+			android:gravity="center_vertical" android:clickable="true"
+			android:background="@drawable/preference_last_item">
+			<LinearLayout android:layout_height="wrap_content"
+				android:id="@+id/linearLayout1" android:layout_width="wrap_content">
+				<TextView android:layout_margin="5dp" android:text="订单明细>>"
+					android:id="@+id/bbar_textview" android:layout_width="wrap_content"
+					android:layout_height="wrap_content"></TextView>
+			</LinearLayout>
+		</RelativeLayout>
+
+	</LinearLayout>
+
+</LinearLayout>

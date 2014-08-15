@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/android_app/!svn/ver/1213/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model
+END
+DataBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1213/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/DataBean.java
+END
+ParamsInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/ParamsInfo.java
+END
+ProductModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/ProductModel.java
+END
+ImageModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/ImageModel.java
+END
+FunctionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/FunctionModel.java
+END
+ItemNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/android_app/!svn/ver/1146/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/ItemNumber.java
+END
+MsgModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/MsgModel.java
+END
+PhotoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/PhotoModel.java
+END
+InfoModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/InfoModel.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/Entity.java
+END
+CheckResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1074/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/CheckResult.java
+END
+PhotoTaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/android_app/!svn/ver/1075/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/PhotoTaker.java
+END
+QuestionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1075/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/QuestionsBean.java
+END
+DataBeanToo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1187/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/DataBeanToo.java
+END
+OptionsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1075/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/OptionsBean.java
+END
+Radio_Statue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/android_app/!svn/ver/1171/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/Radio_Statue.java
+END
+Localdata.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/Localdata.java
+END
+EnumModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/EnumModel.java
+END
+Comm_Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1074/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/Comm_Category.java
+END
+LocationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/LocationModel.java
+END
+PushDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/PushDataModel.java
+END
+ResultComm.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/android_app/!svn/ver/1075/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/ResultComm.java
+END
+CustomModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/CustomModel.java
+END
+Comm.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/android_app/!svn/ver/1074/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/Comm.java
+END
+CheckResultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/android_app/!svn/ver/1074/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/CheckResultItem.java
+END
+Order_Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/android_app/!svn/ver/1063/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/Order_Model.java
+END
+CheckItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/android_app/!svn/ver/1074/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/CheckItem.java
+END
+ResultJsonBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/android_app/!svn/ver/1075/branch/workmanager%E9%97%AE%E5%8D%B7%E6%95%B4%E5%90%88/src/com/orwlw/model/ResultJsonBean.java
+END

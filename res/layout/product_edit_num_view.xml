@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:background="#eee">
+
+
+	<RelativeLayout android:id="@+id/MainActivityrlTwo"
+		android:background="@drawable/title_bar" android:layout_width="fill_parent"
+		android:layout_height="45dp">
+		<Button android:id="@+id/login_reback_btn"
+			android:layout_width="70dp" android:layout_height="wrap_content"
+			android:layout_centerVertical="true" android:text="返回"
+			android:textSize="14sp" android:textColor="#fff" android:onClick="login_back"
+			android:background="@drawable/title_btn_back" />
+		<TextView android:layout_height="wrap_content"
+			android:textSize="20sp" android:textColor="#ffffff"
+			android:layout_centerInParent="true" android:id="@+id/textView1"
+			android:text="选择数量" android:layout_width="wrap_content"></TextView>
+	</RelativeLayout>
+	<ScrollView android:layout_height="wrap_content"
+		android:layout_weight="1" android:layout_width="wrap_content"
+		android:id="@+id/scrollView1">
+		<LinearLayout android:layout_width="match_parent"
+			android:layout_height="wrap_content" android:orientation="vertical"
+			android:layout_marginTop="3dp">
+			<RelativeLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:gravity="center_vertical"
+				android:visibility="gone">
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_centerVertical="true"
+					android:padding="8dp" android:text="商品编码" android:textSize="14sp"
+					android:textColor="#666666" />
+				<TextView android:layout_width="wrap_content" android:id="@+id/card_comm_code"
+					android:layout_height="wrap_content" android:layout_centerVertical="true"
+					android:layout_alignParentLeft="true" android:layout_marginLeft="80dp"
+					android:padding="8dp" android:text="000001" android:textSize="14sp"
+					android:textColor="#666666" />
+			</RelativeLayout>
+			<RelativeLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:gravity="center_vertical"
+				android:background="@drawable/preference_first_item">
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_centerVertical="true"
+					android:padding="8dp" android:text="商品" android:textSize="14sp"
+					android:textColor="#666666" />
+				<TextView android:layout_width="wrap_content" android:id="@+id/card_comm_name"
+					android:layout_height="wrap_content" android:layout_centerVertical="true"
+					android:layout_alignParentLeft="true" android:layout_marginLeft="70dp"
+					android:padding="8dp" android:text="QQ星原味儿童奶200ml"
+					android:textSize="14sp" android:textColor="#666666" />
+			</RelativeLayout>
+			<RelativeLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:gravity="center_vertical"
+				android:background="@drawable/preference_item">
+				<TextView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:layout_centerVertical="true"
+					android:padding="8dp" android:text="选择数量" android:textSize="14sp"
+					android:textColor="#666666" />
+			</RelativeLayout>
+			<RelativeLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:gravity="center_vertical"
+				android:background="@drawable/preference_last_item">
+				<LinearLayout android:id="@+id/LinearLayout1"
+					android:focusable="true" android:focusableInTouchMode="true"
+					android:orientation="horizontal" android:background="@drawable/bg"
+					android:layout_width="fill_parent" android:layout_height="wrap_content"
+					android:layout_below="@+id/MainActivityrlTwo"
+					android:layout_margin="8dp">
+					<Button android:text="—" android:id="@+id/button1"
+						android:background="@drawable/btn_style_green" android:onClick="onBoxMinus"
+						android:layout_width="40dp" android:layout_height="wrap_content"></Button>
+					<TextView android:text="" android:layout_weight="1"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+					<EditText android:layout_width="60dp" android:id="@+id/editText1"
+						android:layout_weight="1" android:layout_height="wrap_content"
+						android:background="@drawable/search_bar_edit_bg"
+						android:inputType="number" android:hint="件数">
+					</EditText>
+					<TextView android:text="" android:layout_weight="1"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+					<Button android:text="＋" android:id="@+id/button2"
+						android:background="@drawable/btn_style_green" android:onClick="onBoxAdd"
+						android:layout_width="40dp" android:layout_height="wrap_content"></Button>
+				</LinearLayout>
+				<LinearLayout android:id="@+id/LinearLayout2"
+					android:focusable="true" android:focusableInTouchMode="true"
+					android:orientation="horizontal" android:background="@drawable/bg"
+					android:layout_width="fill_parent" android:layout_height="wrap_content"
+					android:layout_below="@+id/LinearLayout1" android:layout_margin="8dp">
+					<Button android:text="—" android:id="@+id/button3"
+						android:background="@drawable/btn_style_green" android:onClick="onBagMinus"
+						android:layout_width="40dp" android:layout_height="wrap_content"></Button>
+					<TextView android:text="" android:layout_weight="1"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+					<EditText android:layout_width="60dp" android:id="@+id/editText2"
+						android:background="@drawable/search_bar_edit_bg"
+						android:layout_weight="1" android:layout_height="wrap_content"
+						android:inputType="number" android:hint="个数"></EditText>
+					<TextView android:text="" android:layout_weight="1"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+					<Button android:text="＋" android:id="@+id/button4"
+						android:background="@drawable/btn_style_green" android:onClick="onBagAdd"
+						android:layout_width="40dp" android:layout_height="wrap_content"></Button>
+				</LinearLayout>
+				<LinearLayout android:id="@+id/LinearLayout3"
+					android:visibility="gone" android:orientation="vertical"
+					android:layout_below="@+id/LinearLayout2" android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:layout_margin="8dp">
+					<TextView android:text="生产日期" android:gravity="center"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:id="@+id/textView2"></TextView>
+					<com.orwlw.view.my_view_time
+						android:id="@+id/myview_time" android:layout_height="wrap_content"
+						android:layout_width="fill_parent">
+					</com.orwlw.view.my_view_time>
+				</LinearLayout>
+
+				<LinearLayout android:id="@+id/LinearLayout4"
+					android:background="@drawable/bg" android:visibility="gone"
+					android:orientation="vertical" android:layout_below="@+id/LinearLayout2"
+					android:layout_width="fill_parent" android:layout_height="wrap_content"
+					android:layout_margin="8dp">
+					<TextView android:text="调退原因" android:gravity="center"
+						android:layout_width="fill_parent" android:layout_height="wrap_content"
+						android:id="@+id/textView2"></TextView>
+					<com.orwlw.view.my_view_selectitem
+						android:id="@+id/myview_selectitem" android:layout_height="wrap_content"
+						android:layout_width="fill_parent">
+					</com.orwlw.view.my_view_selectitem>
+				</LinearLayout>
+
+
+
+			</RelativeLayout>
+
+
+
+		</LinearLayout>
+	</ScrollView>
+	<CheckBox android:text="标记为常用商品" android:textColor="#7f828282"
+		android:layout_gravity="center" android:id="@+id/checkBox1"
+		android:button="@drawable/qq_btn_check" android:layout_width="wrap_content"
+		android:layout_height="wrap_content"></CheckBox>
+
+	<Button android:id="@+id/sub_btn" android:layout_width="fill_parent"
+		android:onClick="onSubButton" android:layout_height="40dp"
+		android:layout_margin="5dp" android:layout_alignParentRight="true"
+		android:text="加入订单" android:background="@drawable/btn_style_green"
+		android:textColor="#ffffff" android:textSize="18sp" />
+</LinearLayout>

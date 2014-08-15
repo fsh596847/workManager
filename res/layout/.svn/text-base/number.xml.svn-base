@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/item_add"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/number_Commodity_text"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp" />
+
+        <EditText
+            android:id="@+id/number_Comm_edit"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/number_Commodity_text"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/number_Comm_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/number_Comm_edit"
+            android:text="照相" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_add" >
+
+        <ImageView
+            android:id="@+id/number_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp" />
+
+        <Button
+            android:id="@+id/number_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/number_image"
+            android:text="删除" />
+    </RelativeLayout>
+
+</RelativeLayout>
